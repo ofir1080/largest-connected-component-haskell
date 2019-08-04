@@ -56,4 +56,4 @@ Running `getLCC :: Cells -> [Index]` with `example_grid`:
 ```
 ## Author
 
-**Ofir Abramovich*
+**Ofir Abramovich**
