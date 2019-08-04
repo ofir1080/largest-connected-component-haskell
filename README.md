@@ -16,6 +16,12 @@ A Largest component grid refers to a maximum set of cells such that you can move
 * GHCi — Glasgow Haskell Compiler 8.X.X
 * Prelude (the default standard library)
 
+## Module Type Definitions
+```
+type Color = Int
+type Index = (Int,Int)
+type Cells = [(Index,Color)]
+```
 ## How To Run
 
 ### from Terminal (with LCC.hs in current directory):
